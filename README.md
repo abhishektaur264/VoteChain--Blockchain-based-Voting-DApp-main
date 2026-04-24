@@ -99,16 +99,6 @@ VoteChain/
 └── README.md             # Project documentation
 ```
 
----
-
-## 🧑‍💻 Author
-
-**Developed by:** *[ADITYA RAJEEV PATIL]*
-🔗 GitHub: [@Aditya-6824](https://github.com/Aditya-6824)
-💼 Project Type: Full-Stack Blockchain (Rust + Next.js + Web3.js)
-
----
-
 ## 🎯 Future Improvements
 
 * ✅ Admin dashboard for managing elections and candidates
